@@ -18,6 +18,7 @@
     <TextView
         android:layout_width="match_parent"
         android:text="Koose this is Below"
+        android:onClick="GoBackToMainActivity"
         android:textSize="50sp"
         android:layout_marginTop="40dp"
         android:gravity="center_horizontal"
